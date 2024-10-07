@@ -25,22 +25,13 @@ User-friendly application designed to assist prospective students and their fami
 ### Steps to Install
 
 1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/cmr_college_guide.git
-    ```
-   
+  
 2. Navigate to the project directory:
-    ```bash
-    cd cmr_college_guide
-    ```
-
+  
 3. Run the application:
-    ```bash
-    python app.py
-    ```
-
+   
 ## Usage
 
 1. Upon launching the application, you'll see a welcoming message and a dropdown list of frequently asked questions.
-2. Select a question from the dropdown and click the **Submit** button.
+2. Select a question from the dropdown or write your own and click the **Submit** button.
 3. The application will display the relevant response in the text area below.
